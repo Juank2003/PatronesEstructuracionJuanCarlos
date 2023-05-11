@@ -1,5 +1,5 @@
 # PatronesEstructuracionJuanCarlos
-## Mi repositorio:
+## Mi repositorio: https://github.com/Juank2003/PatronesEstructuracionJuanCarlos.git
 ### Ejercicio 2
 
 
